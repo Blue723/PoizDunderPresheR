@@ -1,0 +1,26 @@
+
+/*body background color*/
+div.appview-container.st-emotion-cache-1yiq2ps.ea3mdgi9 {
+  background-color: #fff4f418;
+    
+  text-align: center;
+
+}
+
+
+
+/* This aligns the logo image at the top */
+/* not sure why both are needed to align the image but it works*/
+div.st-emotion-cache-1kyxreq.e115fcil2 {
+  margin: auto;
+  display: block;
+}
+
+div > img {
+  margin: auto;
+  display: block;
+}
+/* ^^^ continue to adjust ^^^ */
+
+
+
